@@ -1,1 +1,3 @@
 npm run cy:open
+npm run cy:open:mobile
+npm run test:mobile   --modo headless mobile
